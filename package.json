@@ -5,7 +5,7 @@
   "description": "Storefront team's app (real-estate epic, ticket 07/08) -- deliberately old npm dependency tree so Renovate and the vulnerability scanner have real, live signal to surface, not a fixture.",
   "dependencies": {
     "@angular/animations": "~9.1.0",
-    "@angular/common": "~9.1.0",
+    "@angular/common": "~22.2.0",
     "@angular/compiler": "~9.1.0",
     "@angular/core": "~9.1.0",
     "@angular/forms": "~9.1.0",
